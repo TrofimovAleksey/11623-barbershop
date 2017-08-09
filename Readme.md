@@ -2,7 +2,7 @@
 
 * Студент: [Алексей Трофимов](https://up.htmlacademy.ru/htmlcss/18/user/11623).
 * Наставник: ["Максим Фарига"](https://htmlacademy.ru/profile/maximfariga).
-
+* В СПб льёт дождь 
 ---
 
 _Не удаляйте и не обращайте внимание на файлы:_<br>
